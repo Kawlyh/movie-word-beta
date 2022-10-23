@@ -6,3 +6,5 @@
 3. sentence.py：将段落裁开为句子列表
 4. makefeature.py：得到平均特征向量
 5. process-ave-vec：在234的基础上，对所有评论进行向量平均，再使用RandomForest进行测试数据预测
+# else
+k-means聚类分析
